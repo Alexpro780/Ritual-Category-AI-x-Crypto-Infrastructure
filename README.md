@@ -8,3 +8,7 @@ Verifiable inference mechanisms
 
 Use Cases: Autonomous agents, trading bots, AI-driven dApps.
 Autonomous agents, trading bots, AI-driven dApps.
+
+
+
+vDecentralized AI compute network
